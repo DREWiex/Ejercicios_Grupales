@@ -11,4 +11,6 @@ for (let i = 0; i < frase.length; i++) {
     cont++
    }
 }
-alert(cont)
+//alert(cont)
+// alert("La letra " + letra + " se repite " + cont + " veces.")
+alert(`La letra ${letra} se repite ${cont} veces.`)
