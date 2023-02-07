@@ -6,7 +6,7 @@ var n2 = parseFloat(prompt("Gracias, por favor, escriba otro número"));
 console.log(n2);
 var sumrest = prompt("Escribe '+' si quieres sumarlos, o escribe '-' si quieres restarlos");
 console.log(sumrest);
-var result = 0;
+var result;
 
 /*
 if (sumrest == '+') {
